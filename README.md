@@ -20,4 +20,4 @@ Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no 
 
 ## 📊 GitHub Stats
 
-![gabrielmribeiro9235's Stats](https://streak-stats.demolab.com?user=gabrielmribeiro9235&theme=dark&hide_border=true)
+![gabrielmribeiro9235's stats](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmribeiro9235&bg_color=0D1117&color=ffffff&line=2074e3&point=ffffff&area=true&hide_border=true)
