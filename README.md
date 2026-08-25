@@ -2,7 +2,6 @@
 <h2 align="center">Estudante de Análise e Desenvolvimento de Sistemas no IFSP - São Carlos</h2>
 <h3 align="center">Desenvolvedor Front-end em <a href="https://github.com/pet-ads" target="_blank">PET-ADS</a></h3>
 
-<br>
 
 ## 🎯 O que eu faço
 
