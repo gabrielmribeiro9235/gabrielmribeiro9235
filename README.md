@@ -26,6 +26,10 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+**Banco de dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31638C?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **Gestão & Colaboração**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
