@@ -49,6 +49,18 @@
 
 <br>
 
+## 📊 Estatísticas
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=gabrielmribeiro9235&theme=dark&background=0d1117&border=30363d&stroke=39D353&ring=39D353&fire=39D353&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=39D353&sideLabels=c9d1d9&dates=8b949e&card_width=1000"
+    alt="Sequência Atual de Contribuições"
+    width="100%"
+  />
+</p>
+
+<br>
+
 ## 📫 Contato
 
 <p align="left">
